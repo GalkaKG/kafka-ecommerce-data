@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Task EGT Digital** project is a data processing application designed to handle and process e-commerce data, interact with Kafka, and generate data for testing purposes. The project includes components for both consuming and producing Kafka messages, generating test data, and interacting with a database schema for e-commerce applications.
+The **Kafka ecommerce data** project is a data processing application designed to handle and process e-commerce data, interact with Kafka, and generate data for testing purposes. The project includes components for both consuming and producing Kafka messages, generating test data, and interacting with a database schema for e-commerce applications.
 
 ## Directory Structure
 
@@ -38,7 +38,6 @@ The project follows a structured directory layout for better organization and ma
 
 - `requirements.txt`: List of Python dependencies for the project.
 
-- `Task_EGT_Digital.zip`: A zip file of the project for distribution or backup purposes.
 
 ## Key Features
 
