@@ -1,4 +1,4 @@
-# Task EGT Digital Project
+# Kafka ecommerce data
 
 ## Overview
 
